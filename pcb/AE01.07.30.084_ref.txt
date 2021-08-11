@@ -1,0 +1,5 @@
+https://www.digikey.com/reference-designs/en/ac-dc-and-dc-dc-conversion/ac-dc-smps-single-output/408
+
+http://cramercoil.com/viper-cvp-53-series/
+
+https://www.st.com/content/st_com/en/products/power-management/ac-dc-converters/high-voltage-converters/viper/viper53-e.html
